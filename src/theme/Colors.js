@@ -1,4 +1,4 @@
-const colors = {
+const Colors = {
   mainBackground: '#f7f7f7',
   transparent: 'rgba(0,0,0,0)',
   blackFull: '#333333',
@@ -15,4 +15,4 @@ const colors = {
   black30: 'rgba(0, 0, 0, 0.3)',
 };
 
-export default colors;
+export default Colors;
